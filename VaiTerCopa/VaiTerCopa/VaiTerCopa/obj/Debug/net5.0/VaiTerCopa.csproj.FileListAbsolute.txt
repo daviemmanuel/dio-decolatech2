@@ -1,0 +1,16 @@
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\VaiTerCopa\VaiTerCopa\VaiTerCopa\bin\Debug\net5.0\VaiTerCopa.exe
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\VaiTerCopa\VaiTerCopa\VaiTerCopa\bin\Debug\net5.0\VaiTerCopa.deps.json
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\VaiTerCopa\VaiTerCopa\VaiTerCopa\bin\Debug\net5.0\VaiTerCopa.runtimeconfig.json
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\VaiTerCopa\VaiTerCopa\VaiTerCopa\bin\Debug\net5.0\VaiTerCopa.runtimeconfig.dev.json
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\VaiTerCopa\VaiTerCopa\VaiTerCopa\bin\Debug\net5.0\VaiTerCopa.dll
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\VaiTerCopa\VaiTerCopa\VaiTerCopa\bin\Debug\net5.0\ref\VaiTerCopa.dll
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\VaiTerCopa\VaiTerCopa\VaiTerCopa\bin\Debug\net5.0\VaiTerCopa.pdb
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\VaiTerCopa\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.csproj.AssemblyReference.cache
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\VaiTerCopa\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\VaiTerCopa\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.AssemblyInfoInputs.cache
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\VaiTerCopa\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.AssemblyInfo.cs
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\VaiTerCopa\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.csproj.CoreCompileInputs.cache
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\VaiTerCopa\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.dll
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\VaiTerCopa\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\ref\VaiTerCopa.dll
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\VaiTerCopa\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.pdb
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\VaiTerCopa\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.genruntimeconfig.cache

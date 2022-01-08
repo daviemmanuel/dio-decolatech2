@@ -1,0 +1,16 @@
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SequenciaIJ\SequenciaIJ\SequenciaIJ\bin\Debug\net5.0\SequenciaIJ.exe
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SequenciaIJ\SequenciaIJ\SequenciaIJ\bin\Debug\net5.0\SequenciaIJ.deps.json
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SequenciaIJ\SequenciaIJ\SequenciaIJ\bin\Debug\net5.0\SequenciaIJ.runtimeconfig.json
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SequenciaIJ\SequenciaIJ\SequenciaIJ\bin\Debug\net5.0\SequenciaIJ.runtimeconfig.dev.json
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SequenciaIJ\SequenciaIJ\SequenciaIJ\bin\Debug\net5.0\SequenciaIJ.dll
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SequenciaIJ\SequenciaIJ\SequenciaIJ\bin\Debug\net5.0\ref\SequenciaIJ.dll
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SequenciaIJ\SequenciaIJ\SequenciaIJ\bin\Debug\net5.0\SequenciaIJ.pdb
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SequenciaIJ\SequenciaIJ\SequenciaIJ\obj\Debug\net5.0\SequenciaIJ.csproj.AssemblyReference.cache
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SequenciaIJ\SequenciaIJ\SequenciaIJ\obj\Debug\net5.0\SequenciaIJ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SequenciaIJ\SequenciaIJ\SequenciaIJ\obj\Debug\net5.0\SequenciaIJ.AssemblyInfoInputs.cache
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SequenciaIJ\SequenciaIJ\SequenciaIJ\obj\Debug\net5.0\SequenciaIJ.AssemblyInfo.cs
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SequenciaIJ\SequenciaIJ\SequenciaIJ\obj\Debug\net5.0\SequenciaIJ.csproj.CoreCompileInputs.cache
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SequenciaIJ\SequenciaIJ\SequenciaIJ\obj\Debug\net5.0\SequenciaIJ.dll
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SequenciaIJ\SequenciaIJ\SequenciaIJ\obj\Debug\net5.0\ref\SequenciaIJ.dll
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SequenciaIJ\SequenciaIJ\SequenciaIJ\obj\Debug\net5.0\SequenciaIJ.pdb
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SequenciaIJ\SequenciaIJ\SequenciaIJ\obj\Debug\net5.0\SequenciaIJ.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SucessoPar\SucessoPar\SucessoPar\bin\Debug\net5.0\SucessoPar.exe
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SucessoPar\SucessoPar\SucessoPar\bin\Debug\net5.0\SucessoPar.deps.json
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SucessoPar\SucessoPar\SucessoPar\bin\Debug\net5.0\SucessoPar.runtimeconfig.json
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SucessoPar\SucessoPar\SucessoPar\bin\Debug\net5.0\SucessoPar.runtimeconfig.dev.json
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SucessoPar\SucessoPar\SucessoPar\bin\Debug\net5.0\SucessoPar.dll
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SucessoPar\SucessoPar\SucessoPar\bin\Debug\net5.0\ref\SucessoPar.dll
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SucessoPar\SucessoPar\SucessoPar\bin\Debug\net5.0\SucessoPar.pdb
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SucessoPar\SucessoPar\SucessoPar\obj\Debug\net5.0\SucessoPar.csproj.AssemblyReference.cache
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SucessoPar\SucessoPar\SucessoPar\obj\Debug\net5.0\SucessoPar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SucessoPar\SucessoPar\SucessoPar\obj\Debug\net5.0\SucessoPar.AssemblyInfoInputs.cache
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SucessoPar\SucessoPar\SucessoPar\obj\Debug\net5.0\SucessoPar.AssemblyInfo.cs
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SucessoPar\SucessoPar\SucessoPar\obj\Debug\net5.0\SucessoPar.csproj.CoreCompileInputs.cache
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SucessoPar\SucessoPar\SucessoPar\obj\Debug\net5.0\SucessoPar.dll
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SucessoPar\SucessoPar\SucessoPar\obj\Debug\net5.0\ref\SucessoPar.dll
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SucessoPar\SucessoPar\SucessoPar\obj\Debug\net5.0\SucessoPar.pdb
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\SucessoPar\SucessoPar\SucessoPar\obj\Debug\net5.0\SucessoPar.genruntimeconfig.cache

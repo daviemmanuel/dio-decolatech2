@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SucessoPar", "SucessoPar\SucessoPar.csproj", "{C74EBFDC-18BD-40A3-9736-56D92A71C31E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C74EBFDC-18BD-40A3-9736-56D92A71C31E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74EBFDC-18BD-40A3-9736-56D92A71C31E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74EBFDC-18BD-40A3-9736-56D92A71C31E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74EBFDC-18BD-40A3-9736-56D92A71C31E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {095A3FD8-387F-49DF-89F0-74CCDB44FAF2}
+	EndGlobalSection
+EndGlobal
