@@ -1,0 +1,16 @@
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\XenlongaoCS\XenlongaoCS\bin\Debug\net5.0\XenlongaoCS.exe
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\XenlongaoCS\XenlongaoCS\bin\Debug\net5.0\XenlongaoCS.deps.json
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\XenlongaoCS\XenlongaoCS\bin\Debug\net5.0\XenlongaoCS.runtimeconfig.json
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\XenlongaoCS\XenlongaoCS\bin\Debug\net5.0\XenlongaoCS.runtimeconfig.dev.json
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\XenlongaoCS\XenlongaoCS\bin\Debug\net5.0\XenlongaoCS.dll
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\XenlongaoCS\XenlongaoCS\bin\Debug\net5.0\ref\XenlongaoCS.dll
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\XenlongaoCS\XenlongaoCS\bin\Debug\net5.0\XenlongaoCS.pdb
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\XenlongaoCS\XenlongaoCS\obj\Debug\net5.0\XenlongaoCS.csproj.AssemblyReference.cache
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\XenlongaoCS\XenlongaoCS\obj\Debug\net5.0\XenlongaoCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\XenlongaoCS\XenlongaoCS\obj\Debug\net5.0\XenlongaoCS.AssemblyInfoInputs.cache
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\XenlongaoCS\XenlongaoCS\obj\Debug\net5.0\XenlongaoCS.AssemblyInfo.cs
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\XenlongaoCS\XenlongaoCS\obj\Debug\net5.0\XenlongaoCS.csproj.CoreCompileInputs.cache
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\XenlongaoCS\XenlongaoCS\obj\Debug\net5.0\XenlongaoCS.dll
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\XenlongaoCS\XenlongaoCS\obj\Debug\net5.0\ref\XenlongaoCS.dll
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\XenlongaoCS\XenlongaoCS\obj\Debug\net5.0\XenlongaoCS.pdb
+D:\Cursos\Decola Tech 2\desafios\dio-decolatech2\XenlongaoCS\XenlongaoCS\obj\Debug\net5.0\XenlongaoCS.genruntimeconfig.cache
